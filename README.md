@@ -10,5 +10,15 @@ If you want to setup from this repository then run bellow command:
 git clone https://github.com/Adeebshad/Project.git
 ```
 
+# Run Application
 
+At first install npm in device with the following command on terminal
 
+```bash
+npm install
+```
+Next start npm with the command below -
+
+```bash
+npm start
+```
